@@ -17,9 +17,7 @@ gulp
 
 
 ###Implemented gulp automation for:
-
-
-###CSS  minification
+gulp-sass
 
 ###60 FPS, Main.js
 put 'will-change' where needed
