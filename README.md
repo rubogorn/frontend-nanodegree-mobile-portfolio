@@ -1,9 +1,9 @@
-frontend-nanodegree-mobile-portfolio
-P4 Udacity Front-end Nanodegree Program
+#frontend-nanodegree-mobile-portfolio
+##P4 Udacity Front-end Nanodegree Program
 
-View Project
+###View Project
 
-To Build Project Locally
+####To Build Project Locally
 
 clone the repo, and navigate to its root directory
 
@@ -16,12 +16,12 @@ and once dependencies are finished installing
 gulp 
 
 
-Implemented gulp automation for:
+###Implemented gulp automation for:
 
 
-CSS  minification
+###CSS  minification
 
-60 FPS, Main.js
+###60 FPS, Main.js
 put 'will-change' where needed
 constansts were removed out of loops
 Capitalized with CSS instead of JS
