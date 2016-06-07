@@ -21,5 +21,7 @@ gulp-sass
 
 ###60 FPS, Main.js
 put 'will-change' where needed
+
 constansts were removed out of loops
+
 Capitalized with CSS instead of JS
