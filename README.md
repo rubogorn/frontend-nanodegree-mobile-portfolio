@@ -15,6 +15,8 @@ and once dependencies are finished installing
 
 gulp 
 
+open index.html in your browser
+
 
 ###Implemented gulp automation for:
 gulp-sass
