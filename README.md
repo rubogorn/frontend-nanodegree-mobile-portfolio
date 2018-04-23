@@ -20,9 +20,18 @@ open index.html in your browser
 
 ###Implemented gulp automation for:
 gulp-sass
+minify
 
 ###60 FPS, Main.js
 put 'will-change' where needed
+
+load external scripts asynchronous
+
+load fonts via font-face
+
+compressed images
+
+
 
 constansts were removed out of loops
 
