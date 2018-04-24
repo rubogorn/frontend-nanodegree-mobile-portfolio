@@ -9,11 +9,13 @@ clone the repo, and navigate to its root directory
 
 With gulpJs, nodeJs & Npm ( generally included in nodeJs ) installed, in the project directory simply run:
 
-npm install
+$ npm install
+
+$ npm install --global gulp-cli
 
 and once dependencies are finished installing
 
-gulp 
+$ gulp 
 
 open index.html in your browser
 
